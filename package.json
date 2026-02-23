@@ -1,0 +1,15 @@
+{
+  "name": "test-line-liff",
+  "version": "1.0.0",
+  "description": "LINE=2009185061-qkot1H8A",
+  "main": "server.js",
+  "scripts": {
+    "client": "python3 -m http.server --directory src 8000",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
